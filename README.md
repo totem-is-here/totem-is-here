@@ -1,4 +1,7 @@
 ## 👋 Hi there
+
+[Banner](https://tenor.com/view/dj-snake-hola-saludo-saludar-buen-rollo-gif-12979830)
+
 My name is Thomas (alias ToteM), and i'm an french student in computer science !
 
 I'm an Epitech student.
