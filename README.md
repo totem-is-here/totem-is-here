@@ -1,4 +1,26 @@
-## Hi there 👋
+## 👋 Hi there
+My name is Thomas (alias ToteM), and i'm an french student in computer science !
+
+I'm an Epitech student.
+
+I like to learn about new technologies and to help people who ask questions.
+
+## 🧠 Skills
+
+- Computer langage : **C**, **HTML/CSS**, **PHP (learning)**
+- Tools : **Git**, **GitHub**
+- Framework : **Symfony (learning)**
+
+## 🚧 Currently learning
+
+I'm cuurently diving to **PHP** and **Symfony** thanks to OpenClassrooms and Grafikart.
+
+## 📫 Contact me
+
+E-mail : totm.ytb@gmail.com
+
+**Feel free to check out my projects or get in touch !*
+*Thank's for visiting my profile !*
 
 <!--
 **totem-is-here/totem-is-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
