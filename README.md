@@ -1,6 +1,7 @@
 ## 👋 Hi there
 
-[Banner](https://tenor.com/view/dj-snake-hola-saludo-saludar-buen-rollo-gif-12979830)
+![Banner](https://media1.tenor.com/m/mD2wvz_dE1sAAAAd/dj-snake-hola.gif)
+
 
 My name is Thomas (alias ToteM), and i'm an french student in computer science !
 
