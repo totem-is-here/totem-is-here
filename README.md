@@ -13,13 +13,13 @@ I like to learn about new technologies and to help people who ask questions.
 
 ## 🚧 Currently learning
 
-I'm cuurently diving to **PHP** and **Symfony** thanks to OpenClassrooms and Grafikart.
+I'm currently diving to **PHP** and **Symfony** thanks to OpenClassrooms and Grafikart.
 
 ## 📫 Contact me
 
 E-mail : totm.ytb@gmail.com
 
-**Feel free to check out my projects or get in touch !*
+*Feel free to check out my projects or get in touch !*
 *Thank's for visiting my profile !*
 
 <!--
