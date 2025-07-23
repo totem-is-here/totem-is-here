@@ -3,14 +3,14 @@
 ![Banner](https://media1.tenor.com/m/mD2wvz_dE1sAAAAd/dj-snake-hola.gif)
 
 
-My name is Thomas (alias ToteM), and i'm an french student in computer science !
+My name is Thomas (alias ToteM), and i'm a french student in computer science !
 
 I'm an Epitech student, I speak french and i'm learning english and a little german.
 
 I like to learn about new technologies and to help people who ask questions.
 
 ## 🧠 Skills
-- Computer langage :
+- Programming language's :
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -48,19 +48,4 @@ At the same time, I am working on the old basic exercises from my school and pre
 - Discord : [![Discord](https://img.shields.io/badge/Discord-ToteM%230001-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/777792859428487179)
 
 *Feel free to check out my projects or get in touch !*<br>
-*Thank's for visiting my profile !*
-
-<!--
-**totem-is-here/totem-is-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thanks for visiting my profile !*
